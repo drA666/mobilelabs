@@ -1,0 +1,13 @@
+{
+  "name": "main",
+  "displayName": "mobile",
+  "organizationIdentifier": "ua.kpi.comsys.ip8519",
+  "expo": {
+    "name": "Mobile App",
+    "slug": "mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
